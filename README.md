@@ -1,5 +1,5 @@
 
-# AssistenteQA agora será chamado de TestForge
+# AssistenteQA agora foi nomeado para TestForge
 
 
 ## Release note 27/11/2025 às 23:19
